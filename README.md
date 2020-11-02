@@ -16,3 +16,6 @@ To use : (In terminal) npm i nodemon
 GET and POST both are two common HTTP requests used for building REST API's. GET requests are used to send only limited amount of data because data is sent into header while POST requests are used to send large amount of data because data is sent in the body.
 Express.js facilitates you to handle GET and POST requests using the instance of express.
 
+
+Postman is one of the most popular software testing tools which is used for API testing. With the help of this tool, developers can easily create, test, share, and document APIs. Do check the post and get method though postman.
+

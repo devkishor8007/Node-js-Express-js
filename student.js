@@ -1,20 +1,23 @@
 const student = [
-    {
+    {   
+        "id": 1,
         "name": "First",
         "age": 12,
-        "class": 7
+        "address": "chitwan"
 
     },
     {
+        "id": 2,
         "name": "Second",
         "age": 13,
-        "class": 8
+        "address": "parsa"
 
     },
     {
+        "id": 3,
         "name": "Third",
         "age": 18,
-        "class": 12
+        "address": "bharatpur"
 
     }
 ]
